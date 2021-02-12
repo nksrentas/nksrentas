@@ -5,3 +5,4 @@ I'm Nick, a software engineer from Thessaloniki, Greece. If you want to learn mo
 
 - 🔭 I’m currently working on various European projects at CERTH
 - 🌱 I’m currently learning microservices, web security
+- ✔  I'm planing to create a YouTube channel around web technologies, so stay tune 😂
