@@ -1,4 +1,4 @@
-# Hi | Γεία 👋
+# Hi | Γεια 👋
 
 #### I'm Nick, a software engineer from Thessaloniki, Greece. If you want to learn more about me feel free to visit my personal website [nksrentas.net](https://www.nksrentas.net)
 
