@@ -4,6 +4,6 @@
 
 
 
-- 🔭 I’m currently working on various European projects at CERTH
-- 🌱 I’m currently learning microservices, web security
+- 🔭 I’m currently working on various European projects at [CERTH](https://www.certh.gr/)
+- 🌱 At this moment, I learning microservices, web security
 - ✔  I'm planing to create a YouTube channel around web technologies, so stay tune 😂
