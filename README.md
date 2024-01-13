@@ -19,7 +19,6 @@
 
 ### [beepboop.wiki](https://beepboop.wiki)
 - 📖 Personal JAM stack blog
-- 🌐 Technologies: Your tech stack
 
 ## Skills
 - 💻 Code: React, Next.js, JavaScript, TypeScript, Python, CSS
