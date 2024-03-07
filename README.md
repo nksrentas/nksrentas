@@ -4,10 +4,10 @@
 - 📍 Location: Greece
 - 💼 [LinkedIn](https://linkedin.com/in/nikos-rentas/)
 - 🐙 [GitHub](https://github.com/nksrentas)
-- 🌐 [Blog](https://beepboop.wiki/)
+- 🌐 [Website](https://bussin-studio.com/)
 
 ## Projects
-### [unin.app](https://unin.app)
+### [unin.app](https://unin.app) - _deprecated_
 - 🚀 A serverless platform for universities
 - 🎓 Connects students with graduate programs, scholarships, and internships
 - 🛠️ Technologies: Next.js, TypeScript, Supabase, PostgreSQL
