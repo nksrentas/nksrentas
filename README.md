@@ -1,6 +1,6 @@
 # Hi, I'm Nikos 👋  
 
-I'm a **Senior Software Engineer** based in Thessaloniki, Greece. Over the past years, I've been building and scaling enterprise-grade platforms, from high-traffic systems to AI-powered features, serving millions of users worldwide.  
+I'm a **Senior Software Engineer** based in Thessaloniki, Greece. Over the past years, I've been building and scaling enterprise-grade platforms, from high-traffic systems to AI-powered features, and serving millions of users worldwide.  
 
 ---
 
