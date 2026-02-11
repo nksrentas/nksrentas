@@ -1,18 +1,42 @@
-# Hi, I'm Nikos 👋  
+# Hi, I'm Nick
 
-I'm a **Senior Software Engineer** based in Thessaloniki, Greece. Over the past years, I've been building and scaling enterprise-grade platforms, from high-traffic systems to AI-powered features, and serving millions of users worldwide.  
+I build VS Code extensions.
 
----
-
-## 🔧 What I Work With
-- **Frontend:** Remix, React, Next.js, TypeScript, Angular  
-- **Backend:** Node.js, FastAPI, Python, GraphQL, Microservices  
-- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD pipelines  
-- **Databases:** PostgreSQL, MongoDB, ArangoDB, Redis  
-
----
-
-📫 Let’s connect:  
-- [LinkedIn](https://linkedin.com/in/nrentas)  
-- [Website](https://nrentas.me)  
-- [GitHub](https://github.com/nksrentas)  
+<table>
+<tr>
+<td align="center" width="50%">
+<br>
+<a href="https://marketplace.visualstudio.com/items?itemName=nrentas.clauder">
+<img src="clauder-icon.png" width="120" alt="Clauder icon">
+</a>
+<br><br>
+<strong>Clauder</strong>
+<br>
+Track Claude Code usage directly in VS Code — real-time session and weekly utilization with a color-coded status bar indicator.
+<br><br>
+<a href="https://marketplace.visualstudio.com/items?itemName=nrentas.clauder">
+<img src="https://img.shields.io/visual-studio-marketplace/i/nrentas.clauder?label=installs&color=007ACC" alt="VS Marketplace installs">
+</a>
+<br><br>
+<a href="https://github.com/nksrentas/clauder">GitHub</a> · <a href="https://marketplace.visualstudio.com/items?itemName=nrentas.clauder">Marketplace</a> · <a href="https://clauder.fyi">Website</a>
+<br><br>
+</td>
+<td align="center" width="50%">
+<br>
+<a href="https://marketplace.visualstudio.com/items?itemName=nrentas.dispel">
+<img src="dispel-icon.png" width="120" alt="Dispel icon">
+</a>
+<br><br>
+<strong>Dispel</strong>
+<br>
+Right-click to hide files and folders from the Explorer sidebar and optionally exclude them from Git.
+<br><br>
+<a href="https://marketplace.visualstudio.com/items?itemName=nrentas.dispel">
+<img src="https://img.shields.io/visual-studio-marketplace/i/nrentas.dispel?label=installs&color=007ACC" alt="VS Marketplace installs">
+</a>
+<br><br>
+<a href="https://github.com/nksrentas/dispel">GitHub</a> · <a href="https://marketplace.visualstudio.com/items?itemName=nrentas.dispel">Marketplace</a>
+<br><br>
+</td>
+</tr>
+</table>
