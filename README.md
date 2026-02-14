@@ -22,7 +22,7 @@ Track Claude Code usage directly in VS Code — real-time session and weekly uti
 <img src="https://img.shields.io/open-vsx/dt/nrentas/clauder?label=installs&color=C160EF" alt="Open VSX installs">
 </a>
 <br><br>
-<a href="https://github.com/nksrentas/clauder">GitHub</a> · <a href="https://marketplace.visualstudio.com/items?itemName=nrentas.clauder">Marketplace</a> · <a href="https://open-vsx.org/extension/nrentas/clauder">Open VSX</a> · <a href="https://clauder.fyi">Website</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=nrentas.clauder">Marketplace</a> · <a href="https://open-vsx.org/extension/nrentas/clauder">Open VSX</a> · <a href="https://clauder.fyi">Website</a>
 <br><br>
 </td>
 <td align="center" width="50%">
